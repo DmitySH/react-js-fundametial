@@ -35,3 +35,5 @@ doc-dev
 
 *.log
 .log
+
+**/node_modules
